@@ -3,7 +3,6 @@
 A **Retrieval-Augmented Generation (RAG) API** built from scratch using **FastAPI**, **ChromaDB**, and **Ollama**.  
 This project demonstrates how to build an AI-powered backend that answers user queries based on a **custom knowledge base**.
 
----
 
 ## Project Overview
 
@@ -15,7 +14,6 @@ The project was built to understand:
 - How embeddings enable **semantic search**
 - How to run **LLMs locally** using Ollama
 
----
 
 ## How the RAG API Works
 
@@ -25,7 +23,6 @@ The project was built to understand:
 4. The context is passed to a **TinyLLaMA model via Ollama**  
 5. The model generates a clear, concise answer  
 
----
 
 ## Tech Stack
 
@@ -37,7 +34,5 @@ The project was built to understand:
 - **Uvicorn** – ASGI server
 - **Swagger UI** – API testing & documentation
 
----
 
-## 📁 Project Structure
 
